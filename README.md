@@ -8,7 +8,6 @@ Approaches:
 
 ## Task 2
 
-Approaches: 
 
 ![image](figures/Approach_task2Overview.png)
 

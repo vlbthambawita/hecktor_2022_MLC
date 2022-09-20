@@ -6,6 +6,11 @@ Approaches:
 
 ![image](figures/Hecktor_task_1_approaches.drawio.png)
 
+## Task 2
+
+Approaches: 
+
+![image](figures/Approach_task2Overview.png)
 
 ### Contact us:
 vajira@simula.no /
